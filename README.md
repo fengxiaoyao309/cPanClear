@@ -1,6 +1,6 @@
 # 清理C盘教程
 
-> 本教程由 :palm_tree:`ColinCora`书写,Q`3300519161`
+> 本教程由 :palm_tree:`fengxiaoyao309`书写,Q`1798641856`
 
 ## 目录
 
